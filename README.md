@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JavaScript & Node.js**
 
-- 🤝 I’m looking for help with any sorting algorithms on any programming language in [Algorithms project](https://github.com/Matrix278/algorithms)
+- 🤝 I’m looking for help with any sorting algorithms on any programming language in [Algorithms project]
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkimpow]
 
