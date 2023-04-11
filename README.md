@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkimpow](https://github.com/darkimpow)
 
-- 📫 How to reach me **https://www.linkedin.com/in/darkim-powell-2a31b81bb/**
+- 📫 How to reach me **https://darkimpowell-portfolio.vercel.app/**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/darkim-powell-2a31b81bb/](https://www.linkedin.com/in/darkim-powell-2a31b81bb/)
 
